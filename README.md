@@ -79,7 +79,12 @@ The script consists of several key components:
   
   The `run_color_finder` function runs the color detection in parallel for each color defined in `colors_to_find`.
 
+If you find this project useful and would like to support its development, consider buying me a coffee. You can send your contributions to any of the following wallets:
 
+- **TonCoin (TON):** `UQAhXO9bgVnlzFVGjNzqMJnDmSFPzATEJxYhyGPDbFdOuITA`
+- **Ethereum (ETH):** `0x9EA861143008010678bb3dccceE9224Bc3cf28E9`
+- **Solana (SOL):** `7xsjt6fg8NDMBotBMTejiWsmnt9uomhLXUXSWhUU9cz1`
+- **BitCoin (BTC)** `bc1qjk0wdlq226a7pgtgtvsmmxa80qe8pfyrcfgus9`
 
 ## Contributing
 
