@@ -79,14 +79,11 @@ The script consists of several key components:
   
   The `run_color_finder` function runs the color detection in parallel for each color defined in `colors_to_find`.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
 Feel free to submit issues or pull requests if you have any improvements or bug fixes.
 
-## Author
-
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
+Disclaimer: This project is intended for educational purposes only. The author
+is not liable for any misuse or misconduct related to the use of this software.
