@@ -6,7 +6,7 @@ from multiprocessing import Manager, Process
 from time import time, sleep
 
 # Define the region of the screen to capture (left, top, width, height)
-region = (1528, 419, 379, 527)
+region = (0, 150, 379, 510)
 
 # Define the colors to look for (in BGR format for OpenCV)
 colors_to_find = [
